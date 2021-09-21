@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[ src="https://www.youtube.com/channel/UCqkITuIUv9PQ6ZRZl1HQNWA" />
-[ src="https://www.linkedin.com/in/khalak-bin-khair/" />]
-[ src="https://www.instagram.com/_shovhon_/" />]
+[ src="https://www.youtube.com/channel/UCqkITuIUv9PQ6ZRZl1HQNWA"
+[ src="https://www.linkedin.com/in/khalak-bin-khair/"
+[ src="https://www.instagram.com/_shovhon_/"
 
 <br/>
 <br/>
