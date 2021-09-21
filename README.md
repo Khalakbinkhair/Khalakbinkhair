@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" <img src="https://scontent.fdac15-1.fna.fbcdn.net/v/t1.6435-9/236290935_10161278832396754_8993500622663931100_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=eLiL9K32NTAAX-pO6sR&_nc_ht=scontent.fdac15-1.fna&oh=b2a26c5819e5e0b18e5c1bdc29581776&oe=616EF3D9"/>alt="| YouTube" width="22px" src="https://www.youtube.com/channel/UCqkITuIUv9PQ6ZRZl1HQNWA" />
-[<img align="left" alt=" LinkedIn" width="22px" src="https://www.linkedin.com/in/khalak-bin-khair/" />][linkedin]
-[<img align="left" alt=" Instagram" width="22px" src="https://www.instagram.com/_shovhon_/" />][instagram]
+[<img align="left" alt="| YouTube" width="22px" src="https://www.youtube.com/channel/UCqkITuIUv9PQ6ZRZl1HQNWA" />
+[<img align="left" alt=" LinkedIn" width="22px" src="https://www.linkedin.com/in/khalak-bin-khair/" />]
+[<img align="left" alt=" Instagram" width="22px" src="https://www.instagram.com/_shovhon_/" />]
 
 <br/>
 <br/>
