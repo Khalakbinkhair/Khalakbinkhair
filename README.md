@@ -1,4 +1,6 @@
 ### Hi there, I'm Khalak bin Khair👋
+   Undergratuate Student At American International University Bangladesh
+   Department of Computer Science and Engineering 
 
 ## I'm a Student
 
