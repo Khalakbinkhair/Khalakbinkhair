@@ -14,7 +14,8 @@
 [<img align="left" alt=" LinkedIn" width="22px" src="https://www.linkedin.com/in/khalak-bin-khair/" />][linkedin]
 [<img align="left" alt=" Instagram" width="22px" src="https://www.instagram.com/_shovhon_/" />][instagram]
 
-<br />
+<br/>
+<br/>
 
 ### Languages and Tools:
 
