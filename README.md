@@ -1,5 +1,5 @@
 ### Hi there, I'm Khalak bin Khair👋
-   Undergratuate Student At American International University Bangladesh<br/>
+   Undergraduate Student At American International University Bangladesh<br/>
    Department of Computer Science and Engineering 
 
 ## I'm a Student
