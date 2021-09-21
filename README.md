@@ -1,5 +1,5 @@
 ### Hi there, I'm Khalak bin Khair👋
-   Undergratuate Student At American International University Bangladesh
+   Undergratuate Student At American International University Bangladesh<br/>
    Department of Computer Science and Engineering 
 
 ## I'm a Student
@@ -13,8 +13,7 @@
 ### Connect with me:
 
 <img src="https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk" width="80px"/>"https://www.youtube.com/channel/UCqkITuIUv9PQ6ZRZl1HQNWA"<br/>
-"https://www.linkedin.com/in/khalak-bin-khair/"<img scr="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" width="80px"/><br/>
-"https://www.instagram.com/_shovhon_/"<br/>
+<img scr="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" width="80px"/>"https://www.linkedin.com/in/khalak-bin-khair/"<br/>
 "https://www.researchgate.net/profile/Khalak-Bin-Khair"<br/>
 
 
