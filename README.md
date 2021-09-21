@@ -13,7 +13,7 @@
 ### Connect with me:
 
 <img src="https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk" width="80px"/>"https://www.youtube.com/channel/UCqkITuIUv9PQ6ZRZl1HQNWA"<br/>
-<img scr="https://seeklogo.com/images/L/linked-in-linkedin-logo-92FF20BA9B-seeklogo.com.png" width="80px"/>"https://www.linkedin.com/in/khalak-bin-khair/"<br/>
+<img scr="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlua2VkaW4lMjBsb2dvfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80" width="80px"/>"https://www.linkedin.com/in/khalak-bin-khair/"<br/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZJKx4cCg21yc73753HOti7_lHx3f5skt9z1QClkAbMRHDsugLHzqFtktcbdU6jdIOco&usqp=CAU" width="80px"/>"https://www.researchgate.net/profile/Khalak-Bin-Khair"<br/>
 
 
