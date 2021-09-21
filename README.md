@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-"https://www.youtube.com/channel/UCqkITuIUv9PQ6ZRZl1HQNWA"<img src="https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk" width="50px"<br/>
+"https://www.youtube.com/channel/UCqkITuIUv9PQ6ZRZl1HQNWA"<img src="https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk" width="50px"/><br/>
 "https://www.linkedin.com/in/khalak-bin-khair/"<br/>
 "https://www.instagram.com/_shovhon_/"<br/>
 "https://www.researchgate.net/profile/Khalak-Bin-Khair"<br/>
