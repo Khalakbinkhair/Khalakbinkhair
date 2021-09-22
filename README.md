@@ -1,4 +1,4 @@
-### Hi there, I'm Khalak bin Khair👋![image]
+### Hi there, I'm Khalak bin Khair👋!
 
 
    Undergraduate Student At American International University Bangladesh<br/>
