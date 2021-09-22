@@ -13,9 +13,7 @@
 - ⚡  I love to travel and listening songs 
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCqkITuIUv9PQ6ZRZl1HQNWA" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/khalak-bin-khair/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/_shovhon_/" />][instagram]
+
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZJKx4cCg21yc73753HOti7_lHx3f5skt9z1QClkAbMRHDsugLHzqFtktcbdU6jdIOco&usqp=CAU" width="50px"/>"https://www.researchgate.net/profile/Khalak-Bin-Khair"<br/>
 
