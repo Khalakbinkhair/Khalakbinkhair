@@ -1,4 +1,5 @@
-### Hi there, I'm Khalak bin Khair👋![image](https://user-images.githubusercontent.com/60177352/134283586-4d60d1f2-c672-4ccc-a172-5172de6769b5.png)
+### Hi there, I'm Khalak bin Khair👋![image]
+(https://user-images.githubusercontent.com/60177352/134283586-4d60d1f2-c672-4ccc-a172-5172de6769b5.png)
 
    Undergraduate Student At American International University Bangladesh<br/>
    Department of Computer Science and Engineering 
