@@ -13,15 +13,9 @@
 - ⚡  I love to travel and listening songs 
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<img src="https://play-lh.googleusercontent.com/vA4tG0v4aasE7oIvRIvTkOYTwom07DfqHdUPr6k7jmrDwy_qA_SonqZkw6KX0OXKAdk" width="50px"/>"https://www.youtube.com/channel/UCqkITuIUv9PQ6ZRZl1HQNWA"<br/>
-
-<img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlua2VkaW4lMjBsb2dvfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80" width="50px"/>"https://www.linkedin.com/in/khalak-bin-khair/"
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCqkITuIUv9PQ6ZRZl1HQNWA" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/khalak-bin-khair/" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/_shovhon_/" />][instagram]
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZJKx4cCg21yc73753HOti7_lHx3f5skt9z1QClkAbMRHDsugLHzqFtktcbdU6jdIOco&usqp=CAU" width="50px"/>"https://www.researchgate.net/profile/Khalak-Bin-Khair"<br/>
 
