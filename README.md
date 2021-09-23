@@ -10,7 +10,7 @@
 - 🌱 I Complete Python,SQL,C,C++,java,C#,Basic HTML
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Love to travel and listening songs 
+- 🌊 Love to travel and listening songs 
 
 ### Connect with me:
 
