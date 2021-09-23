@@ -14,7 +14,7 @@
 ### Connect with me:
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZJKx4cCg21yc73753HOti7_lHx3f5skt9z1QClkAbMRHDsugLHzqFtktcbdU6jdIOco&usqp=CAU" width="50px">  "https://www.researchgate.net/profile/Khalak-Bin-Khair"<br/>
+<a href="https://www.researchgate.net/profile/Khalak-Bin-Khair"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZJKx4cCg21yc73753HOti7_lHx3f5skt9z1QClkAbMRHDsugLHzqFtktcbdU6jdIOco&usqp=CAU" width="50px"> </a>
 
 
 <br/>
