@@ -1,4 +1,4 @@
-###<i> Hi there, My self  Khalak bin Khair</i>
+###<b><i> Hi there, My self  Khalak bin Khair</i></b>
 
 
    Undergraduate Student At American International University Bangladesh<br/>
