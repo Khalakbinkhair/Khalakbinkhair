@@ -2,7 +2,7 @@
 
 
    Undergraduate Student At American International University Bangladesh<br/>
-   Department of Computer Science and Engineering 
+   Department of Computer Science and Engineering <a href https://linktr.ee/Khalakbinkhair> Click Here </a>
 
 ## I'm a Student
 
