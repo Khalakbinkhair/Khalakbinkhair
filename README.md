@@ -5,7 +5,7 @@
    Department of Computer Science and Engineering
    <html>
    <body>
-   <a href ="https://linktr.ee/Khalakbinkhair"> Click Here </a>
+   <a href ="https://linktr.ee/Khalakbinkhair"> Click Here </a> To Add with me
    </body>
       </html>
          
