@@ -10,11 +10,11 @@
       </html>
          
 
-## I'm a Student
 
 
-- 🌱 I Complete Python,SQL,C,C++,java,C#,Basic HTML
-- 👯 I’m looking to collaborate with other content creators
+
+- 🌱  Complete Python,SQL,C,C++,java,C#,Basic HTML
+- 👯 Looking to collaborate with other content creators
 - 🌊 Love to travel and listening songs 
 
 ### Visit:
