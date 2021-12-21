@@ -16,6 +16,8 @@
 - 🌱  Complete Python,SQL,C,C++,java,C#,Basic HTML
 - 👯 Looking to collaborate with other content creators
 - 🌊 Love to travel and listening songs 
+- ![Uploading ringLoading.gif…]()
+
 
 ### Visit:
 
