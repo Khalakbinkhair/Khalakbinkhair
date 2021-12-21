@@ -13,9 +13,12 @@
 
 
 
-- 🌱  Complete Python,SQL,C,C++,java,C#,Basic HTML
+- 🌱  Complete Python,SQL,C,C++,java,C#, HTML,PHP,JS
 - 👯 Looking to collaborate with other content creators
 - 🌊 Love to travel and listening songs 
+
+
+
 ![ringLoading](https://user-images.githubusercontent.com/60177352/146932357-f682a8b4-e4da-4a45-a843-2d5960f73702.gif)
 
 
