@@ -18,9 +18,7 @@
 - 🌊 Love to travel and listening songs 
 
 
-<div> 
-  <style> height: 200px;
-  width: 50%;
+
   
 
 ![ringLoading](https://user-images.githubusercontent.com/60177352/146932357-f682a8b4-e4da-4a45-a843-2d5960f73702.gif)
