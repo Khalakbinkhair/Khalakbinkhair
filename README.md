@@ -13,7 +13,7 @@
 
 
 
-- 🌱  Complete Python,SQL,C,C++,java,C#, HTML,PHP,JS
+- 🌱  Complete Python,SQL,C,C++,java,C#, HTML,PHP,JS,Laravel,React js
 - 👯 Looking to collaborate with other content creators
 - 🌊 Love to travel and listening songs 
 
