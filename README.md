@@ -29,7 +29,7 @@
 ### Visit:
 
 <pre>
-<a href="https://www.researchgate.net/profile/Khalak-Bin-Khair"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZJKx4cCg21yc73753HOti7_lHx3f5skt9z1QClkAbMRHDsugLHzqFtktcbdU6jdIOco&usqp=CAU" width="50px"> </a><a href="https://www.linkedin.com/in/khalak-bin-khair/"> <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlua2VkaW4lMjBsb2dvfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80" width="50px"> </a><a href="https://www.kaggle.com/khalakbinkhair"> <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" width="50px"> </a><a href="https://khalakbinkhair.wixsite.com/protfolio"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fwix_5968770&psig=AOvVaw2BY5ELhGla5HjHdMe-mT-p&ust=1654367864253000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCgzN_2kfgCFQAAAAAdAAAAABAD" width="50px"> </a>
+<a href="https://www.researchgate.net/profile/Khalak-Bin-Khair"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ZJKx4cCg21yc73753HOti7_lHx3f5skt9z1QClkAbMRHDsugLHzqFtktcbdU6jdIOco&usqp=CAU" width="50px"> </a><a href="https://www.linkedin.com/in/khalak-bin-khair/"> <img src="https://images.unsplash.com/photo-1611944212129-29977ae1398c?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGlua2VkaW4lMjBsb2dvfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80" width="50px"> </a><a href="https://www.kaggle.com/khalakbinkhair"> <img src="https://www.kaggle.com/static/images/logos/kaggle-logo-gray-300.png" width="50px"> </a><a href="https://khalakbinkhair.wixsite.com/protfolio"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Wix.com_Logo.png" width="50px"> </a>
 
 </pre>
 
