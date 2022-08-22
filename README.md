@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalak Bin Khair</h1>
 <h3 align="center">Web Development | Software Engineer | Python Enthusiast</h3>
-<img align="center" width="400" src="https://github.com/rudrabarad/Gifs">
+<img src="https://github.com/rudrabarad/Gifs" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalakbinkhair&label=Profile%20views&color=0e75b6&style=flat" alt="khalakbinkhair" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalakbinkhair" alt="khalakbinkhair" /></a> </p>
