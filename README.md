@@ -4,18 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalakbinkhair" alt="khalakbinkhair" /></a> </p>
 
-- 🔭 I’m currently working on **Several Project**
-
-- 🌱 I’m currently learning **React, Laravel, Python,SQL,C,C++,java,C#, HTML,PHP,JS**
-
-- 👨‍💻 All of my projects are available at [https://khalakbinkhair.wixsite.com/protfolio](https://khalakbinkhair.wixsite.com/protfolio)
-
-- 📫 How to reach me **khalakbinkhair@gmail.com**
-
-- 📄 Know about my experiences [https://khalakbinkhair.wixsite.com/protfolio](https://khalakbinkhair.wixsite.com/protfolio)
-
-- ⚡ Fun fact **Love to travel and listening songs**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khalak-bin-khair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khalak-bin-khair/" height="30" width="40" /></a>
